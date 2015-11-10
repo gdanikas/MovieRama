@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-MovieRama.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Reachability.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SDWebImage.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>UIScrollView-InfiniteScroll.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>70B907E7862EFA2198552A25C297CE42</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>87510A34D87E5EEAAB83E7C084298BBF</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>979471360107D064A23CB8753B3DD308</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>EB26C0BCA360BF37A17C6C779DD24499</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
